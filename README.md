@@ -58,10 +58,9 @@ Asimismo, en la gráfica de barras ubicada en la parte inferior derecha del tabl
 </p>
 
 
-En la segunda página se presentan los indicadores clave de rendimiento (KPI) que muestran las tasas de acceso a Internet por cada 100 habitantes y 100 hogares. Estos KPI varían en función del año, período y trimestre. Además, se muestra la suma de los ingresos anuales.En la gráfica de suma de ingresos (expresados en miles de pesos) por año, se aprecia un aumento constante a lo largo del tiempo. Esto indica que los servicios prestados por la empresa están generando ganancias.
+En la segunda página, se efectúa un análisis detallado de la velocidad promedio de descarga por trimestre, expresada en Mbps (Megabits por segundo). Este valor representa la rapidez con la que se transmite la conexión a Internet. Este análisis se presenta como un indicador clave del rendimiento del servicio ofrecido. Además, se visualiza el promedio general de accesos a Internet por provincia anualmente, lo cual nos brinda información sobre el crecimiento de la cobertura a lo largo del tiempo. Igualmente, se proporciona una perspectiva del top 5 de provincias con mayor acceso a Internet.
 
-
-Asimismo, en la gráfica de barras ubicada en la parte inferior derecha, se muestra el acceso a Internet por cada 100 habitantes y cada 100 hogares a lo largo del tiempo. Se observa un incremento general en estas tasas a medida que transcurren los años. Sin embargo, se aprecia una disminución para el año 2022, lo cual sugiere la existencia de alguna situación externa que ha provocado esta baja en la tendencia ascendente que se venía registrando.
+En concordancia con el gráfico de barras, se pone en evidencia que la disponibilidad de acceso a Internet varía en función de la tecnología utilizada, siendo más elevada para el cable módem y seguida por el servicio ADSL. Estas tendencias permanecen consistentes en todas las provincias que se han analizado. Por otro lado, el gráfico de líneas exhibe la fluctuación de la velocidad promedio a lo largo del tiempo. Esta variación sugiere la posibilidad de desafíos en la prestación del servicio, ya que se nota un decremento en la velocidad con el transcurso del tiempo. 
 
 
 <p align="center">
