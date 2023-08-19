@@ -45,11 +45,11 @@ El análisis exploratorio se documentó en el notebook _EDA.ipynb_, detallando c
 
 ### **📉Resultados y Análisis**
 ***
-En la primera página del panel de control, se realiza un análisis de la velocidad promedio anual, medida en Mbps (Megabits por segundo), que indica la velocidad a la que viaja la conexión a internet. Este análisis se presenta como un indicador clave del servicio proporcionado, desglosado por provincia, tecnología y año. Además, se muestra un mapa que representa el acceso a internet por cada 100 habitantes en las provincias donde el servicio está disponible.
+En la primera página del tablero de control se presentan los indicadores clave de rendimiento (KPI) que muestran el promedio de acceso a Internet por cada 100 habitantes y cada 100 hogares anualmente. Estos KPIs nos proporcionan una perspectiva sobre cómo ha evolucionado la cobertura de acceso a Internet en Argentina. 
 
+Además, en la misma página, se presenta una gráfica que ilustra el promedio de ingresos generados (expresados en miles de pesos) a lo largo de los años. Esta visualización refleja un aumento en los ingresos a lo largo del tiempo, lo cual sugiere que los servicios proporcionados por la empresa están generando ganancias de manera consistente.
 
-Según se observa en el gráfico de barras, el acceso a internet varía según la tecnología utilizada, siendo mayor para el cable módem y seguido por el servicio ADSL. Estas tendencias se mantienen consistentes en todas las provincias analizadas. Por otro lado, el gráfico de líneas muestra que la velocidad propuesta fluctúa con el tiempo, lo cual sugiere posibles problemas en la prestación del servicio, ya que se observa una disminución en la velocidad a lo largo del tiempo. Por lo tanto, se recomendaría a la empresa que realice mejoras en este aspecto.
-
+Asimismo, en la gráfica de barras ubicada en la parte inferior derecha del tablero, se exhibe la cantidad de accesos a Internet por cada 100 habitantes y cada 100 hogares a lo largo de distintos años. Se puede observar un crecimiento gradual a medida que transcurren los años. Sin embargo, se destaca una disminución en el año 2022. Esta disminución inusual sugiere la presencia de algún factor externo que ha impactado negativamente en la tendencia ascendente que se había mantenido hasta entonces.
 
 <p align="center">
   <img src="Image/ena1.png" />
