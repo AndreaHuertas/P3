@@ -51,6 +51,8 @@ Además, en la misma página, se presenta una gráfica que ilustra el promedio d
 
 Asimismo, en la gráfica de barras ubicada en la parte inferior derecha del tablero, se exhibe la cantidad de accesos a Internet por cada 100 habitantes y cada 100 hogares a lo largo de distintos años. Se puede observar un crecimiento gradual a medida que transcurren los años. Sin embargo, se destaca una disminución en el año 2022. Esta disminución inusual sugiere la presencia de algún factor externo que ha impactado negativamente en la tendencia ascendente que se había mantenido hasta entonces.
 
+
+
 <p align="center">
   <img src="Image/ena1.png" />
 </p>
