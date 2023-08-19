@@ -52,7 +52,7 @@ Según se observa en el gráfico de barras, el acceso a internet varía según l
 
 
 <p align="center">
-  <img src="Image/screen1.png" />
+  <img src="Image/ena1.png" />
 </p>
 
 
@@ -63,7 +63,7 @@ Asimismo, en la gráfica de barras ubicada en la parte inferior derecha, se mues
 
 
 <p align="center">
-  <img src="Image/screen2.png" />
+  <img src="Image/ena2.png" />
 </p>
 
 ### **🚀Conclusiones**
